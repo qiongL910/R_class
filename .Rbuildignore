@@ -1,0 +1,8 @@
+^.git$
+^.Rproj.user$
+^.gitattributes$
+^.gitignore$
+^README.md$
+^R_class_Nov14th.rproj$
+^.Rhistory$
+^.RData$
